@@ -1,7 +1,7 @@
 - 👋 Hi, I’m: @silasmendes
-- 👀 I’m interested in: Synapse, Spark, SQL Server, music, books, etc
-- 🌱 I’m currently learning: Spark
-- 💞️ I’m looking to collaborate on: Synapse
+- 👀 I’m interested in: Azure Synapse, Spark, Databricks, SQL Server, cloud, music, books, etc.
+- 🌱 I’m currently learning: Spark, Python, Javascript.
+- 💞️ I’m looking to collaborate on: Azure Synapse, databases.
 - 📫 How to reach me: @silasmendes
 
 <!---
