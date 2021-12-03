@@ -1,6 +1,6 @@
 - 👋 Hi, I’m: Silas Mendes
 - 👀 I’m interested in: Azure Synapse, Spark, Databricks, Cosmos, SQL Server, cloud.
-- 🌱 I’m currently learning: Spark performance, Javascript.
+- 🌱 I’m currently learning: Spark performance, Deep Learning in Python.
 - 💞️ I’m looking to collaborate on: Azure Synapse, Spark, data engineering, data analysis.
 ## Contact :iphone:
 
@@ -9,8 +9,8 @@
         <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/silasmendes">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="mailto:silas.mendes@outlook.com">
-        <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:silas.mendes@outlook.com">
+    <a href="mailto:silasmendes@gmail.com">
+        <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:silasmendes@gmail.com">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/silasmendes">
