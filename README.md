@@ -1,6 +1,6 @@
 - 👋 Hi, I’m: Silas Mendes
-- 👀 I’m interested in: Azure Synapse, Spark, Databricks, Cosmos, SQL Server, cloud.
-- 🌱 I’m currently learning: Spark performance, Deep Learning in Python.
+- 👀 I’m interested in: Azure Synapse, Spark, Databricks, Cosmos, SQL Server, cloud computing.
+- 🌱 I’m currently learning: Spark performance, deep learning in Python.
 - 💞️ I’m looking to collaborate on: Azure Synapse, Spark, data engineering, data analysis.
 ## Contact :iphone:
 
